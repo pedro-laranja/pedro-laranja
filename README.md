@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @pedro-laranja
+- 👀 I’m interested in DataScience and programming in general
+- 🌱 I’m currently learning DataScience
+- 💞️ I’m looking to collaborate on projects(involving DataScience)
+- 📫 pedro.laranja@poli.ufrj.br
